@@ -16,9 +16,9 @@ Some statistics about this dataset:
 
 | | |
 | ------------- | ------------- |
-| 🧾 Database Records | 11375  |
-| 📝 Source codes collected  | ~9998  |
-| 📸 High resolution images  | ~9998  |
+| 🧾 Database Records | ~11375  |
+| 📝 Source codes collected  | ~9624  |
+| 📸 High resolution images  | ~9764  |
 | 🎨 Image resolution provided  | 1920 x 1080  |
 | 📗 Database format provided  | .db .csv .sql .json  |
 | 📘 Source code format provided  | .html  |
@@ -27,9 +27,9 @@ Some statistics about this dataset:
 
 ## License
 
-You are free to do whatever you want with the data, as long as you give credits to the authors `(© PopupDB.org | choozn / 2021)`
+You are free to do whatever you want with the data, as long as you give credits to the authors.
 
-Attribution 4.0 International (CC BY 4.0).
+`(© PopupDB.org | choozn / 2021)`- [Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Closing words
 
