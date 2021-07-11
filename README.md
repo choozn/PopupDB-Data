@@ -17,7 +17,7 @@ Some statistics about this dataset:
 | | |
 | ------------- | ------------- |
 | 🧾 Database Records | ~11375  |
-| 📝 Source codes collected  | ~9624  |
+| 📝 Source codes collected  | ~9790  |
 | 📸 High resolution images  | ~9764  |
 | 🎨 Image resolution provided  | 1920 x 1080  |
 | 📗 Database format provided  | .db .csv .sql .json  |
