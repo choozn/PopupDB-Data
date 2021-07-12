@@ -1,5 +1,12 @@
+
+
+
 # About
 
+### Disclaimer
+This is not the release of the full data. The complete download can be found under https://popupdb.org/downloads.
+
+### Info
 The PopupDB Project has been collecting data about Tech-Support-Scams and their popups since 2018.
 
 Now it's time to go a different way, since it is no more possible for me to maintain the project as it was before.
